@@ -1,23 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from "react"
+import Counter from "./components/counter/Counter";
+import './App.scss';
 
-function App() {
+
+function App(props) {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={"App"}>
+      <h1 className={"border border-3 border-light bg-secondary p-3 rounded"} style={{textShadow: "white 0 0 3px"}} >Counter with Redux</h1>
+      <Counter counter={0}/>
     </div>
   );
 }
