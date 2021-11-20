@@ -17,3 +17,5 @@ au-delà de l'utilisation des hooks, de redux ou du testing.
 C'est donc pour cela que j'ai voulu me lancer dans l'aventure de l'écriture
 afin de répondre à toutes les questions que je me pose, et que beaucoup se posent
 pour devenir, à l'instar de Javascript, un ninja React.
+
+![exemple React++](public/images/reduceFunction.jpg)
