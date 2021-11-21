@@ -1,7 +1,7 @@
 ## Pourquoi ce projet
 
 Je travail actuellement à la réalisation d'un eBook sur React,
-un de plus me direz-vous et je ne vous contredirais pas, mais après en avoir quelques uns
+un de plus me direz-vous et je ne vous contredirais pas, mais après en avoir lu quelques uns
 j'ai pu me rendre compte que les contenus sont de manière général
 toujours les mêmes.
 
@@ -18,4 +18,5 @@ C'est donc pour cela que j'ai voulu me lancer dans l'aventure de l'écriture
 afin de répondre à toutes les questions que je me pose, et que beaucoup se posent
 pour devenir, à l'instar de Javascript, un ninja React.
 
+## Exemple de schémas
 ![exemple React++](public/images/reduceFunction.jpg)
